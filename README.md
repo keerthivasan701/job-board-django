@@ -1,10 +1,12 @@
 💼 Job Board Web Application
 A full-stack Job Board Web Application built with Django, allowing employers to post jobs and job seekers to search and apply for jobs.
 Designed with a clean UI, secure authentication, and deployed on Render.
+
 🔗 Live Demo:
 http://127.0.0.1:8000/
 
 🚀 Features
+
 User authentication (Login & Register)
 Employer & Job Seeker role-based access
 Company creation and management
