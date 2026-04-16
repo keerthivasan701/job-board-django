@@ -57,7 +57,7 @@ django-job-board/
 
 ⚙️ Installation & Setup (Local)
 1️⃣ Clone the repository
-git clone https://github.com/Mathanraj-d12/django-job-board.git
+git clone https://github.com/keerthivasan701/job-board-django
 cd django-job-board
 
 2️⃣ Create virtual environment
@@ -95,8 +95,5 @@ Developed a Job Board Web Application using Django with role-based authenticatio
 
 👨‍💻 Author
 
-Keerthi Vasan
-GitHub: https://github.com/eerthivasan701
-
-Live Demo: http://127.0.0.1:8000/
-GitHub: (repo link)
+Keerthivasan
+GitHub: https://github.com/keerthivasan701
